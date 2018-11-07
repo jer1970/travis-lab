@@ -1,9 +1,9 @@
 print("Hello world! i made it")
 
-def doThis:
+def doThis():
 	print("words")
 
-def main:
+def main():
 	doThis()
 
 main()
