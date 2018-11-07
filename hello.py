@@ -3,5 +3,8 @@ print("Hello world! i made it")
 def doThis:
 	print("words")
 
-doThis()
+def main:
+	doThis()
+
+main()
 
