@@ -1,2 +1,2 @@
 "# travis-lab" 
-[![Build status](https://travis-ci.org/jer1970/travislab.svg?master)](https://travis-ci.org/jer1970)
+[![Build Status](https://travis-ci.org/jer1970/travis-lab.svg?branch=master)](https://travis-ci.org/jer1970/travis-lab)
